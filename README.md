@@ -16,7 +16,7 @@ import (
 	"log"
 	"os"
 
-	// Importuojame mūsų naują paketą
+	// Importuojame mūsų paketą
 	"github.com/atvirokodosprendimai/go-stdio"
 
 	// Tavo "Blackbox" biblioteka, kurios negali keisti
